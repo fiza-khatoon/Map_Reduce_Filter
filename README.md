@@ -8,7 +8,7 @@ This repository contains examples and explanations of the concepts of Map, Reduc
 - [.reduce](#reduce)---return single values.
 
 
-- [.filter](#filter)---Filters out elements and store in a new array wothout dosturbing original one. returns array.
+- [.filter](#filter)---Filters out elements and store in a new array without disturbing original one. returns array.
 
 
 
